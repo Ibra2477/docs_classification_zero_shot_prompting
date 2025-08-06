@@ -21,7 +21,8 @@ model = AutoModelForCausalLM.from_pretrained(
     MODEL_NAME,
     device_map="auto",
     torch_dtype=torch.bfloat16,
-    trust_remote_code=True
+    trust_remote_code=True,
+    offload_folder="./model_offload"  # Added to fix device_map error
 )
 
 generator = pipeline(
