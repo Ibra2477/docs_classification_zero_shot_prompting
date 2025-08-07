@@ -1,0 +1,17 @@
+
+FACTURE N° 2024-001
+Date: 15/09/2024
+Date d'échéance: 15/10/2024
+
+Client: Entreprise ABC
+Adresse: 123 Rue de la Paix, 75001 Paris
+
+PRESTATIONS:
+- Consultation informatique (5h) - 300.00 EUR
+- Développement logiciel (10h) - 600.00 EUR
+
+SOUS-TOTAL HT: 900.00 EUR
+TVA 20%: 180.00 EUR
+TOTAL TTC: 1080.00 EUR
+
+Modalités de paiement: Virement bancaire
